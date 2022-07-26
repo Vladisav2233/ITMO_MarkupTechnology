@@ -1,0 +1,44 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<resume>
+<candidate id="a">
+<Name>Анна</Name>
+<LastName>Иванова</LastName>
+<PatronymicName>Ивановна</PatronymicName>
+<WorkPlace>ООО "Проект"</WorkPlace>
+<Post>менеджер</Post>
+<DateOfBirth>12/09/1980</DateOfBirth>
+<Education>Высшее</Education>
+<Adress>СПБ, ул. Ленина 3-5</Adress>
+<Phone>123-45-67</Phone>
+<FamilyStatus>замужем</FamilyStatus>
+<DesiredSalary currency = "RUR">30 000</DesiredSalary>
+</candidate>
+
+<candidate id="b">
+<Name>Иван</Name>
+<LastName>Анноев</LastName>
+<PatronymicName>Александрович</PatronymicName>
+<WorkPlace>ООО "Закрой"</WorkPlace>
+<Post>менеджер</Post>
+<DateOfBirth>05/07/1983</DateOfBirth>
+<Education>Среднее</Education>
+<Adress>СПБ, ул. Красная 5-2</Adress>
+<Phone>123-45-67</Phone>
+<FamilyStatus>женат</FamilyStatus>
+<DesiredSalary currency = "RUR">25 000</DesiredSalary>
+</candidate>
+
+<candidate id="С">
+<Name>Никита</Name>
+<LastName>Васильев</LastName>
+<PatronymicName>Васильевич</PatronymicName>
+<WorkPlace>ООО "Понтон"</WorkPlace>
+<Post>продавец</Post>
+<DateOfBirth>02/04/1988</DateOfBirth>
+<Education>Среднее</Education>
+<Adress>СПБ, ул. Светлая 25-88</Adress>
+<Phone>123-45-67</Phone>
+<FamilyStatus>холост</FamilyStatus>
+<DesiredSalary currency = "RUR">20 000</DesiredSalary>
+</candidate>
+</resume>

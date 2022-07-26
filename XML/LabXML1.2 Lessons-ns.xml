@@ -1,0 +1,45 @@
+<?xml version = "1.0" encoding = "utf-8" ?>
+<myns:plan xmlns:myns = "http://www.itmo.ru/xml/lessons">
+<myns:course>
+<myns:name>Технологии программирования</myns:name>
+<myns:teacher>Антон</myns:teacher>
+<myns:begin>28/03/22</myns:begin>
+<myns:end>15/04/22</myns:end>
+</myns:course>
+
+<myns:course>
+<myns:name>Введение в базы данных</myns:name>
+<myns:teacher>Денис</myns:teacher>
+<myns:begin>18/04/22</myns:begin>
+<myns:end>28/04/22</myns:end>
+</myns:course>
+
+<myns:course>
+<myns:name>Програмирование на Сsharp</myns:name>
+<myns:teacher>Антон</myns:teacher>
+<myns:begin>16/05/22</myns:begin>
+<myns:end>31/05/22</myns:end>
+</myns:course>
+
+<myns:course>
+<myns:name>T_SQL и MS SQL Server</myns:name>
+<myns:teacher>Денис</myns:teacher>
+<myns:begin>02/06/22</myns:begin>
+<myns:end>28/06/22</myns:end>
+</myns:course>
+
+<myns:course>
+<myns:name>Разработка прилложений на Сsharp</myns:name>
+<myns:teacher>Антон</myns:teacher>
+<myns:begin>01/07/22</myns:begin>
+<myns:end>20/07/22</myns:end>
+</myns:course>
+
+<myns:course>
+<myns:name>Разработка прилложений на Сsharp</myns:name>
+<myns:teacher>Антон</myns:teacher>
+<myns:begin>01/07/22</myns:begin>
+<myns:end>20/07/22</myns:end>
+</myns:course>
+
+</myns:plan>
